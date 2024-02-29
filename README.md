@@ -1,0 +1,2 @@
+# Vacuum-Cleaner-Agent-Artificial-Intelligence-Python
+"I've created a Python program for an AI vacuum cleaner agent. It's designed to autonomously clean indoor spaces using basic machine learning and robotics techniques. The program utilizes simple algorithms for navigation and cleaning, without sophisticated learning capabilities. It's a basic implementation focused on functionality ,not advanced
